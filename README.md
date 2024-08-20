@@ -9,7 +9,7 @@ training_data.csv consists of video information like thumbnail url, channel name
 thumbnail_train - notebook trains model to predict a title to an animal video using the thumbnail(The notebook was run locally on colab with CUDA Version: 12.6, Driver Version: 560.76 )
 
 ## Result:
-#### During Trining:
+#### During Training:
 ![image](https://github.com/user-attachments/assets/61b9b5c3-f9ac-4b38-8f6a-2cb11d0c03d8)
 
 #### Loss for Test_Data: 7.563081352713143
