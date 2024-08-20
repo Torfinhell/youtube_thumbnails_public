@@ -13,7 +13,7 @@ thumbnail_train - notebook trains model to predict a title to an animal video us
 ![image](https://github.com/user-attachments/assets/61b9b5c3-f9ac-4b38-8f6a-2cb11d0c03d8)
 
 #### Loss for Test_Data: 7.563081352713143
-#### Examples:
+#### Examples(from test_Data):
 ![image](https://github.com/user-attachments/assets/2543c1fb-8f34-408c-be05-6d67ac5fe75f)
 
 prediction befor training:  ['a black and white cat sitting on top of a tree']
