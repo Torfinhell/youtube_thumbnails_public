@@ -2,6 +2,8 @@
 ## This project was aimed to train a model that could predict the title of a youtube video by the thumbnail image
 channels.csv - dataset from https://www.kaggle.com/datasets/zhitaochen/channels
 
+traning_data.csv is available via link: https://drive.google.com/file/d/1-5W2BkGZo6Um9vWiQxiUPvcpLFOIUd9K/view?usp=sharing
+
 thumbnail_collect - notebook creates training_data.csv (ran on colab)
 
 training_data.csv consists of video information like thumbnail url, channel name, channel description, title
